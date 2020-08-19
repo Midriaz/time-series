@@ -1,2 +1,2 @@
 # time-series
-My homeworks for time-series
+Time-series examples
